@@ -1,0 +1,36 @@
+pre.Joy {
+    color:rgb(201, 84, 11);;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+
+h1.Starbucks{
+    font-family:verdana;
+    color: rgb(156,39,6);
+    text-align:center;
+}
+
+h2.Chai{
+    font-family:verdana;
+    color: rgb(156,39,6);
+    text-align:center;
+
+}
+
+body {
+    background-color: rgb(212, 168, 117);
+    font-family:verdana;
+    margin: auto;
+    width: 50%;
+    border: 5px dashed seagreen;
+    padding: 50px;
+  }
+
+  p{
+    font-family: verdana;
+    font-size: 12px;
+  }
